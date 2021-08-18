@@ -1,13 +1,30 @@
-dateModified: 1629286061
+dateModified: 1629288515
 email:
   fromEmail: martin@viacreative.co.uk
   fromName: IMDB
   transportType: craft\mail\transportadapters\Sendmail
 meta:
   __names__:
+    0b6a1f7f-14e0-4a81-950d-135c709ba735: 'Site Settings' # Site Settings
+    3c70318c-0ebc-4ffc-80e6-5adc07b71f1e: Image # Image
+    4c733c1d-faf7-498e-a787-65cb82013894: Movies # Movies
+    4d8c7000-baf3-4b1e-ac76-6f6afef0c212: 'Footer Text' # Footer Text
     6c1a8799-7dcd-4923-95dd-44855f39cefb: IMDB # IMDB
+    08d190fe-b731-461e-b9df-291e8372207d: Logo # Logo
     8d485aab-6d6a-493c-8907-5c8d4583db50: IMDB # IMDB
+    97eba27c-7c01-40ec-a680-e89142013e24: 'Feature Image' # Feature Image
+    422f5532-6bf8-45ca-9cb9-692b6d007d43: Text # Text
+    631d136a-7be4-4ea6-b357-b7c1a2d2638e: Images # Images
+    728deb39-d17a-4b56-b102-6f6eb252729a: Home # Home
+    3258ce96-7414-4364-9ccb-bf0b096a4e62: 'Site Settings' # Site Settings
     5388ea32-115c-4bcd-8270-b2d7b19638dd: Common # Common
+    a46f68a5-7950-46cd-bbee-93b402e46605: Text # Text
+    b0b47de6-985a-4ef5-bbd9-536d9003de28: Movie # Movie
+    b6779ccf-16fc-46d1-8476-617401156a6b: Home # Home
+    bb304ae8-ed16-45c0-be89-c9cb88332270: Movies # Movies
+    d94452ae-cad3-4dc8-bd41-a92a48bb9209: Image # Image
+    e773ec07-b679-4276-8d6c-e939783cc05c: 'Post Content' # Post Content
+    e996de4c-dbaf-49f8-878c-016d060a50aa: Excerpt # Excerpt
 plugins:
   element-api:
     edition: standard
