@@ -1,0 +1,8 @@
+baseUrl: $PRIMARY_SITE_URL
+handle: default
+hasUrls: true
+language: en-GB
+name: IMDB
+primary: true
+siteGroup: 6c1a8799-7dcd-4923-95dd-44855f39cefb # IMDB
+sortOrder: 1

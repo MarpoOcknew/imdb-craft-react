@@ -1,0 +1,32 @@
+dateModified: 1629286061
+email:
+  fromEmail: martin@viacreative.co.uk
+  fromName: IMDB
+  transportType: craft\mail\transportadapters\Sendmail
+meta:
+  __names__:
+    6c1a8799-7dcd-4923-95dd-44855f39cefb: IMDB # IMDB
+    8d485aab-6d6a-493c-8907-5c8d4583db50: IMDB # IMDB
+    5388ea32-115c-4bcd-8270-b2d7b19638dd: Common # Common
+plugins:
+  element-api:
+    edition: standard
+    enabled: true
+    schemaVersion: 1.0.0
+  redactor:
+    edition: standard
+    enabled: true
+    schemaVersion: 2.3.0
+system:
+  edition: solo
+  live: true
+  name: IMDB
+  retryDuration: null
+  schemaVersion: 3.7.7
+  timeZone: Europe/London
+users:
+  allowPublicRegistration: false
+  defaultGroup: null
+  photoSubpath: null
+  photoVolumeUid: null
+  requireEmailVerification: true
